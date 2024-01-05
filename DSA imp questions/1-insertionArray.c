@@ -32,7 +32,7 @@ int main(){
     3->
       if (pos >= n+1)  
     {  
-        printf (" \n Deletion is not possible in the array.");  
+        printf (" \n Insertion is not possible in the array.");  
     }
     we can add this condition to check if the position given by user is correct or not.
 */
